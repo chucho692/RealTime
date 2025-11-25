@@ -83228,7 +83228,7 @@ A.alt.prototype={
 $0(){return this.a.x="No se pudo obtener ubicaci\xf3n actual: "+A.m(this.b)},
 $S:0}
 A.alB.prototype={
-$1(a){var s=null,r=A.dL("Ingresa tu nombre",s,s,s,s,s,s),q=A.axM(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Ej: Juan, Ana...",s,s,s,s,s,s,s,s,s,!0,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s)
+$1(a){var s=null,r=A.dL("Ingresa # y destino",s,s,s,s,s,s),q=A.axM(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Ej: 1004, Santa Rosa...",s,s,s,s,s,s,s,s,s,!0,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s)
 return new A.qX(r,new A.Bu(q,B.and,!0,B.aml,B.amm,new A.aly(this.a),!0,s),A.e([A.atR(A.dL("Cancelar",s,s,s,s,s,s),new A.alz(a),s),A.aHP(!1,A.dL("Compartir",s,s,s,s,s,s),s,s,s,s,s,s,new A.alA(a),s,s)],t.af),s)},
 $S:556}
 A.aly.prototype={
